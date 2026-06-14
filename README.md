@@ -61,12 +61,20 @@ notebooks/
 dashboard/
 images/
 
-
 ## Key Insights
 
-- West Bengal is one of the highest rice producing states
-- Uttar Pradesh leads wheat production
-- Crop production shows increasing trends over years
+- West Bengal emerged as one of the leading rice-producing states.
+- Uttar Pradesh consistently ranked highest in wheat production.
+- Rice and wheat production showed long-term growth trends across the years.
+- Agricultural output increased significantly due to expansion in cultivation and productivity improvements.
+
+## Dashboard Features
+
+- KPI Card for Total Rice Production
+- Rice Production Analysis by State
+- Wheat Production Analysis by State
+- Rice vs Wheat Production Trend Visualization
+- Interactive Power BI Dashboard
 
 ## Author
 
