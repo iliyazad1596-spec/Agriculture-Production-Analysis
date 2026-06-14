@@ -1,7 +1,7 @@
 # Agriculture Production Analysis Dashboard
 ## Dashboard Preview
 
-![Dashboard](images/dashboard.png)
+![Dashboard](dashboard.png)
 
 ## Project Overview
 
